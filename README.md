@@ -1,2 +1,2 @@
 # Fundamentals of Artificial Intelligence and Machine Learning for CpE
-Fundamentals of AI and ML
+This repository is undergoing construction and will be completed after the offered semester.
